@@ -92,7 +92,7 @@ header .animales {
  }
  .boton:hover {
      color: var(--color-secundario);
-     background-color: var(--color-principal);
+     background-color: transparent;
      border: 1px solid var(--color-secundario);
      padding: 10px 30PX;
      text-align: center;
